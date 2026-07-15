@@ -9,7 +9,7 @@ A real-time monitoring system to detect temperature breaches in pharmaceutical c
 
 ## Tech Stack
 - Python
-- Streamlit (if used)
+- Streamlit
 
 ## How to Run
 pip install -r requirements.txt
